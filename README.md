@@ -34,8 +34,8 @@ Using EF Core:
 
 Open Package Manager Console and run:
 
-powershell
-update-database
+### powershell
+## update-database
 Or manually run the provided SQL script: Database/Script.sql (if you created one).
 
 3. Run the Application
